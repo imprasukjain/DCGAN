@@ -14,27 +14,7 @@ In short, a DCGAN consists of two main components: the generator and the discrim
 
 During training, the generator and discriminator are trained simultaneously in an adversarial manner. The generator aims to generate images that are realistic enough to fool the discriminator, while the discriminator learns to become better at distinguishing between real and fake images. This competition between the generator and discriminator leads to the improvement of both models over time.
 
-## Usage
-
-1. Clone this repository to your local machine or download the ZIP file.
-
-```bash
-git clone https://github.com/your-username/face-generation-dcgan.git
-```
-
-2. Install the required dependencies by running the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Start Jupyter Notebook and open the `face_generation_dcgan.ipynb` notebook.
-
-```bash
-jupyter notebook
-```
-
-4. Follow the instructions provided in the notebook to run and experiment with the DCGAN model. Modify the number of epochs as desired to train the model for a different number of iterations.
+Follow the instructions provided in the notebook to run and experiment with the DCGAN model. Modify the number of epochs as desired to train the model for a different number of iterations.
 
 This iterative training process helps the generator to improve its ability to generate high-quality images that closely resemble real human faces.
 
