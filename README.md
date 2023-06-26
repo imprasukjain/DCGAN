@@ -8,7 +8,7 @@ Caption: Generated faces after training the DCGAN for 20 epochs.
 The dataset used in this project can be found [here](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset).<br>
 Here I used the API keys provided by Kaggle to access the dataset easily on my Google Colab.
 
-
+## Special Note
 This repository contains an implementation of a Deep Convolutional Generative Adversarial Network (DCGAN) for face generation. The code is provided as a Jupyter notebook, allowing you to easily run and experiment with the DCGAN model. Due to computational constraints, the notebook is set to run for only 20 epochs, but you can modify and run it for more epochs as desired (suggested: 1000).
 
 ## DCGAN Overview
