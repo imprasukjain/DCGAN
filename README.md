@@ -46,9 +46,7 @@ To run the face generation code, follow these steps:
 
 - We acknowledge the developers and contributors of Python, TensorFlow, and other open-source libraries utilized in this project for their valuable contributions to the deep learning and machine learning communities.
 
-- Special thanks to Google Colab for providing a free
-
-, cloud-based Jupyter notebook environment with GPU support.
+- Special thanks to Google Colab for providing a free cloud-based Jupyter notebook environment with GPU support.
 
 ## License
 
